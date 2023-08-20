@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore build output and temporary files
+target/
+*.class
+*.log
+
+# Ignore IDE-specific files
+.idea/
